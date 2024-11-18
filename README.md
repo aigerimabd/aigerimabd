@@ -41,7 +41,7 @@ It utilizes a pretrained model fine-tuned for improved accuracy.
 
 1. app.py: The Streamlit app code for interactive model testing.
 2. requirements.txt: List of Python dependencies for the project.
-3. AMLreport.pdf: Detailed report including dataset details, model performance metrics, and improvements.
+3. AML Final Project.pdf: Detailed report including dataset details, model performance metrics, and improvements.
 4. aml-final.ipynb: File where model was trained.
 
 
