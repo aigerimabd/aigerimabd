@@ -52,3 +52,9 @@ It utilizes a pretrained model fine-tuned for improved accuracy.
 The app has been deployed on Streamlit Cloud. You can test it online using the link below:
 Deployed App URL: https://iuxbqyjg7yutwwkrmkmsvg.streamlit.app/#image-classification-app
 
+# Dataset
+
+
+This is image data of Natural Scenes around the world. Data contains around 25k images of size 150x150 distributed under 6 categories.
+Link: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
